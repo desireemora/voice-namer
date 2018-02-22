@@ -3,7 +3,7 @@
 Reads a batch of image meta data, shows you on the screen, allows you to name it through voice command.
 I find myself wanting to name an enormous amount of image files (sometimes even music files), but I don't want to have to open the properties of all of them one by one to name them. So I was thinking voice comand would let you bybass the repetition. 
 
-<b>You must have pillow which is a fork of PIL. The fork exists because the Python Imaging Library (PIL) is no longer being updated. The photo files must be in the same folder as the code</b>
+<b>You must have pillow which is a fork of PIL. The fork exists because the Python Imaging Library (PIL) is no longer being updated. The photo files must be in the same folder as the code.</b>
 
 <b>TIPS:</b>
 
